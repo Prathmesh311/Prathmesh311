@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img width="48%" " src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh311&" alt="prathmesh311" />
+ 
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathmesh311&show_icons=true&locale=en" alt="prathmesh311" />
 </p>
