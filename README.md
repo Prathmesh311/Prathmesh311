@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **React, MERN**
+- 💬 Ask me about **Java, MERN**
 
 - 📫 How to reach me **prathmesh.bhondave2@gmail.com**
 
