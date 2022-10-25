@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **Java, MERN**
+- 
+- 👨‍💻 Where I work **Smallcase**
 
 - 📫 How to reach me **prathmesh.bhondave2@gmail.com**
 
