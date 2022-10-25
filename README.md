@@ -13,7 +13,7 @@
 - 💬 Ask me about **Java, MERN** 
 - 👨‍💻 Where I work **TCS**
 
-- 📫 How to reach me **prathmesh.bhondave2@gmail.com**
+- 📫 How to reach me ... [E-mail](mailto:prathmesh.bhondave2@gmail.com) or [Linkedin Profile](https://www.linkedin.com/in/prathmesh-bhondave/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
