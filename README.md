@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web application**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Java, MERN** 
 - 👨‍💻 Where I work **TCS**
