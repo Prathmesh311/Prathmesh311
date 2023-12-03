@@ -31,4 +31,4 @@
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathmesh311&show_icons=true&locale=en" alt="prathmesh311" />
 </p>
-  
+  ![Snake animation](https://github.com/Prathmesh311/Prathmesh311/blob/output/github-contribution-grid-snake.svg)
