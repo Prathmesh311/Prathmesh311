@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Bhondave</h1>
 <h3 align="center">Software Developer from USA</h3>
 <p>Passionate software developer specializing in microservices and enthusiastic about distributed systems. I am eager to contribute my skills to large-scale software projects, with a firm ambition to develop groundbreaking solutions that resonate with millions worldwide.🚀 🌐
+  
 Active participant in developer communities, and a frequent contributor to hackathons. Dedicated to leveraging technology to make a positive global impact. I thrive on collaborative efforts and am excited about using my software skills to contribute meaningfully to the world. Let's connect and innovate together! ✨💻</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
