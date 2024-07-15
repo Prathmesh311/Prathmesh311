@@ -11,9 +11,9 @@ Active participant in developer communities, and a frequent contributor to hacka
 
 - 🔭 I’m currently working on **Web application**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS, Design Patterns**
 
-- 💬 Ask me about **Java, MERN** 
+- 💬 Ask me about **Java, Distributed Systems, Cloud Computing** 
 
 - 📫 How to reach me on [E-mail](mailto:prathmesh.bhondave2@gmail.com) or [Linkedin Profile](https://www.linkedin.com/in/prathmesh-bhondave/)
 
